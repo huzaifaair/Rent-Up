@@ -1,0 +1,2 @@
+# Rent-Up
+ Rent-Up is a modern and intuitive front-end web application developed with React.js, designed to streamline the property rental experience for both tenants and landlords. This platform offers an efficient, user-friendly interface for browsing, listing, and managing rental properties. Users can view property details, apply search filters, and explore rental options with a smooth and responsive design, powered by React
